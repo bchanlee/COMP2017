@@ -21,4 +21,5 @@ Program finds the next earliest train departure after arrival at a station.
 
 ### Tests
 * Examples are seen in `tests` folder
+* `testinfo.txt` has information about all the tests
 * `make test` to run tests
