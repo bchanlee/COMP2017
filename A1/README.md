@@ -18,6 +18,7 @@ Program finds the next earliest train departure after arrival at a station.
 
 ### Compilation
 * `make timetable` to compile program
+* `gcc-10` for macOS
 
 ### Tests
 * Examples are seen in `tests` folder
