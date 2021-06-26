@@ -1,4 +1,4 @@
-# Assignment 1 - Timetable
+# Assignment 1 - Handling Files and Strings
 
 Program finds the next earliest train departure after arrival at a station.
 
