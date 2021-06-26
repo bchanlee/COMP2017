@@ -1,0 +1,33 @@
+cross_day
+* tests for "Cross-day times (when the closest time is the next day,
+candidate train may be available on the next day)"
+
+invalid_time
+* entry has invalid time format
+
+invalid_usr_time
+* user provides invalid time format
+
+long_line
+* entry has a line longer than max. limit
+
+missing_station
+* tests is no suitable train can be found
+
+multiple_stations
+* tests for multiple stations
+
+no_data
+* no timetable data supplied
+
+not_enough_arg
+* not enough arguments provided by the user
+
+single_station1
+* a single station test case (as shown in specs)
+
+single_station2
+* a single station test case (as shown in specs)
+
+unsorted_data
+* timetable data is unsorted

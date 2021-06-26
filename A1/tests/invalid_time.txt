@@ -1,0 +1,2 @@
+Invalid time format
+The next train to Cardiff from Wirragulla departs at 11:01:23
